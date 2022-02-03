@@ -1,3 +1,4 @@
 Okan Doğan
 okandogan.xyz
-https://youtu.be/3_0SNm4-M8I
+
+BackEnd'i Python ile hazırlanmış olan Docker ile canlıya alınmış girilen IP adresinin kayıtlarını tutan ve IP adresinizi ekrana yazdıran basit bir site.
